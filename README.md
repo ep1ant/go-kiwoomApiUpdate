@@ -1,4 +1,4 @@
-# go-kiwoomVersion
+# kiwoom-OpenAPI-Update
 
 ## kiwoomUpdate.exe
 > ※ 프로그램이 동작하지 않을 시 관리자 권한으로 실행해주셔야 정상적으로 작동합니다.
